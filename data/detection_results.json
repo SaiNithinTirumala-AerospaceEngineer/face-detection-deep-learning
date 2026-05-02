@@ -1,0 +1,324 @@
+{
+  "test1_single_face.jpg": {
+    "face_count": 1,
+    "faces": [
+      {
+        "x": 230,
+        "y": 79,
+        "w": 136,
+        "h": 136,
+        "area_px": 18496,
+        "eye_count": 0,
+        "smile_detected": false,
+        "eyes": []
+      }
+    ],
+    "image_area_px": 172212,
+    "face_area_px": 18496,
+    "face_coverage": 0.1074025038905535,
+    "processing_ms": 487.5
+  },
+  "test2_two_faces.jpg": {
+    "face_count": 1,
+    "faces": [
+      {
+        "x": 1049,
+        "y": 322,
+        "w": 308,
+        "h": 308,
+        "area_px": 94864,
+        "eye_count": 1,
+        "smile_detected": true,
+        "eyes": [
+          {
+            "x": 165,
+            "y": 82,
+            "w": 58,
+            "h": 58
+          }
+        ]
+      }
+    ],
+    "image_area_px": 2666000,
+    "face_area_px": 94864,
+    "face_coverage": 0.03558289572393098,
+    "processing_ms": 413.21
+  },
+  "test3_gradient_bg.jpg": {
+    "face_count": 3,
+    "faces": [
+      {
+        "x": 1243,
+        "y": 732,
+        "w": 156,
+        "h": 156,
+        "area_px": 24336,
+        "eye_count": 0,
+        "smile_detected": false,
+        "eyes": []
+      },
+      {
+        "x": 703,
+        "y": 269,
+        "w": 173,
+        "h": 173,
+        "area_px": 29929,
+        "eye_count": 2,
+        "smile_detected": true,
+        "eyes": [
+          {
+            "x": 28,
+            "y": 49,
+            "w": 44,
+            "h": 44
+          },
+          {
+            "x": 91,
+            "y": 38,
+            "w": 50,
+            "h": 50
+          }
+        ]
+      },
+      {
+        "x": 490,
+        "y": 220,
+        "w": 243,
+        "h": 243,
+        "area_px": 59049,
+        "eye_count": 2,
+        "smile_detected": true,
+        "eyes": [
+          {
+            "x": 136,
+            "y": 84,
+            "w": 47,
+            "h": 47
+          },
+          {
+            "x": 54,
+            "y": 62,
+            "w": 49,
+            "h": 49
+          }
+        ]
+      }
+    ],
+    "image_area_px": 1651500,
+    "face_area_px": 113314,
+    "face_coverage": 0.06861277626400242,
+    "processing_ms": 268.85
+  },
+  "test4_group.jpg": {
+    "face_count": 13,
+    "faces": [
+      {
+        "x": 599,
+        "y": 347,
+        "w": 74,
+        "h": 74,
+        "area_px": 5476,
+        "eye_count": 0,
+        "smile_detected": false,
+        "eyes": []
+      },
+      {
+        "x": 166,
+        "y": 270,
+        "w": 64,
+        "h": 64,
+        "area_px": 4096,
+        "eye_count": 0,
+        "smile_detected": false,
+        "eyes": []
+      },
+      {
+        "x": 864,
+        "y": 85,
+        "w": 66,
+        "h": 66,
+        "area_px": 4356,
+        "eye_count": 0,
+        "smile_detected": false,
+        "eyes": []
+      },
+      {
+        "x": 635,
+        "y": 180,
+        "w": 71,
+        "h": 71,
+        "area_px": 5041,
+        "eye_count": 0,
+        "smile_detected": false,
+        "eyes": []
+      },
+      {
+        "x": 379,
+        "y": 337,
+        "w": 79,
+        "h": 79,
+        "area_px": 6241,
+        "eye_count": 0,
+        "smile_detected": false,
+        "eyes": []
+      },
+      {
+        "x": 104,
+        "y": 164,
+        "w": 74,
+        "h": 74,
+        "area_px": 5476,
+        "eye_count": 0,
+        "smile_detected": false,
+        "eyes": []
+      },
+      {
+        "x": 822,
+        "y": 269,
+        "w": 76,
+        "h": 76,
+        "area_px": 5776,
+        "eye_count": 0,
+        "smile_detected": false,
+        "eyes": []
+      },
+      {
+        "x": 212,
+        "y": 114,
+        "w": 67,
+        "h": 67,
+        "area_px": 4489,
+        "eye_count": 0,
+        "smile_detected": false,
+        "eyes": []
+      },
+      {
+        "x": 539,
+        "y": 472,
+        "w": 61,
+        "h": 61,
+        "area_px": 3721,
+        "eye_count": 0,
+        "smile_detected": false,
+        "eyes": []
+      },
+      {
+        "x": 828,
+        "y": 216,
+        "w": 70,
+        "h": 70,
+        "area_px": 4900,
+        "eye_count": 0,
+        "smile_detected": false,
+        "eyes": []
+      },
+      {
+        "x": 491,
+        "y": 225,
+        "w": 66,
+        "h": 66,
+        "area_px": 4356,
+        "eye_count": 0,
+        "smile_detected": false,
+        "eyes": []
+      },
+      {
+        "x": 323,
+        "y": 233,
+        "w": 66,
+        "h": 66,
+        "area_px": 4356,
+        "eye_count": 0,
+        "smile_detected": false,
+        "eyes": []
+      },
+      {
+        "x": 758,
+        "y": 154,
+        "w": 65,
+        "h": 65,
+        "area_px": 4225,
+        "eye_count": 0,
+        "smile_detected": false,
+        "eyes": []
+      }
+    ],
+    "image_area_px": 666000,
+    "face_area_px": 62509,
+    "face_coverage": 0.09385735735735735,
+    "processing_ms": 185.79
+  },
+  "test5_small_face.jpg": {
+    "face_count": 1,
+    "faces": [
+      {
+        "x": 612,
+        "y": 315,
+        "w": 34,
+        "h": 34,
+        "area_px": 1156,
+        "eye_count": 0,
+        "smile_detected": false,
+        "eyes": []
+      }
+    ],
+    "image_area_px": 673792,
+    "face_area_px": 1156,
+    "face_coverage": 0.0017156629939209726,
+    "processing_ms": 106.51
+  },
+  "test6_dark_bg.jpeg": {
+    "face_count": 2,
+    "faces": [
+      {
+        "x": 635,
+        "y": 830,
+        "w": 2266,
+        "h": 2266,
+        "area_px": 5134756,
+        "eye_count": 4,
+        "smile_detected": true,
+        "eyes": [
+          {
+            "x": 941,
+            "y": 1334,
+            "w": 241,
+            "h": 241
+          },
+          {
+            "x": 1238,
+            "y": 1406,
+            "w": 136,
+            "h": 136
+          },
+          {
+            "x": 1344,
+            "y": 767,
+            "w": 407,
+            "h": 407
+          },
+          {
+            "x": 450,
+            "y": 554,
+            "w": 558,
+            "h": 558
+          }
+        ]
+      },
+      {
+        "x": 3164,
+        "y": 3590,
+        "w": 56,
+        "h": 56,
+        "area_px": 3136,
+        "eye_count": 0,
+        "smile_detected": false,
+        "eyes": []
+      }
+    ],
+    "image_area_px": 17915904,
+    "face_area_px": 5137892,
+    "face_coverage": 0.286778272533722,
+    "processing_ms": 4818.06
+  }
+}
