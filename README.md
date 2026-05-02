@@ -19,6 +19,15 @@ operating point for the test image set.
 *Developed as a practical extension of the AI & Deep Learning Workshop,
 IIT Hyderabad, 08–09 April 2023.*
 
+## System architecture
+
+![Pipeline architecture](assets/face_detection_pipeline_architecture.svg)
+
+*Full detection pipeline — from raw image input through preprocessing,
+face detection, per-face feature extraction (eyes + smile), to annotated
+output and JSON report. Dashed line shows the optional parameter
+benchmark path that feeds the analysis plots.*
+
 ---
 
 ## Detection results — sample outputs
