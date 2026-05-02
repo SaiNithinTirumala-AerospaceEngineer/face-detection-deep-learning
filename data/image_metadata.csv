@@ -1,0 +1,7 @@
+Filename,Width_px,Height_px,Expected_Faces,Background,Notes
+test1_single_face.jpg,640,480,1,Plain light grey,Frontal face optimal conditions
+test2_two_faces.jpg,640,480,2,Plain light grey,Two faces different skin tones
+test3_gradient_bg.jpg,640,480,1,Gradient blue-grey,Variable background illumination
+test4_group.jpg,800,480,3,Plain light grey,Group detection three subjects
+test5_small_face.jpg,640,480,1,Plain with rectangle,Small face simulating distance
+test6_dark_bg.jpg,640,480,1,Dark background,High contrast low-light simulation
